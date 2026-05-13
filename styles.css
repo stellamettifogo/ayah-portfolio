@@ -76,7 +76,7 @@ nav a:hover {
 /* IMAGE: hero portrait on landing page — replace .image-placeholder.hero-photo div */
 .hero-photo {
     width: 450px;
-    height: 580px;
+    height: auto;
 }
 
 /* ==========================================================================
